@@ -81,7 +81,6 @@
       <DependentUpon>Login.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Zimnica.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
